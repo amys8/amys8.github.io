@@ -1,4 +1,5 @@
 ## Amy's User Page
+My favorite programming language is Python.
 
 ## Welcome to GitHub Pages
 
