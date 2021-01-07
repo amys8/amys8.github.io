@@ -48,5 +48,6 @@ Visit my [profile](https://github.com/amys8) on [Github](https://github.com).
 
 ## Pictures
 
-This is a picture of Venti from Genshin Impact.
+This is an image of Venti from Genshin Impact.
+
 ![Image](https://images-ext-1.discordapp.net/external/h_xbZI22dSVfZTNERkmz-LgTyiZXItnOQnraBah0-pc/https/imgur.com/NYIUAnB.png)
