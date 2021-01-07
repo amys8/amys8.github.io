@@ -44,8 +44,8 @@ Visit my [profile](https://github.com/amys8) on [Github](https://github.com).
 ### Task List
 - [x] slide down chimney
 - [ ] deliver presents
-- [x] have cookies and milk
+- [x] have milk and cookies
 
 ## Images
 
-![Image](src)
+![Image](https://images-ext-1.discordapp.net/external/h_xbZI22dSVfZTNERkmz-LgTyiZXItnOQnraBah0-pc/https/imgur.com/NYIUAnB.png)
