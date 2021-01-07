@@ -1,14 +1,16 @@
 # Amy's User Page
 
-## Styling Text
+## Programming Languages
 
 My *favorite* programming language is **Java**.
+I've also learned a little bit of **C** and **C++**.
+~~I would like to learn Python and HTML.~~
 
-## Quoting Text
+## Inspirational Quote
 
-In the words of Abraham Lincoln:
+In the words of Peter Drucker:
 
-> Pardon my French.
+> The best way to predict the future is to create it. <
 
 ## Quoting Code
 
