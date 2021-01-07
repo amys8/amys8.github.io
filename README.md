@@ -28,7 +28,7 @@ Visit my [profile](https://github.com/amys8) on [Github](https://github.com).
 ## Lists
 
 ### Bulleted List of my Favorite Cartoons
-- Avatar the last Airbender
+- Avatar: The Last Airbender
 - Teen Titans
 
 ### Numbered List of my Favorite Drinks
@@ -42,9 +42,10 @@ Visit my [profile](https://github.com/amys8) on [Github](https://github.com).
      - HO :santa:
      
 ### Task List
-- [x] one
-- [ ] two
-- [x] three
+- [x] slide down chimney
+- [ ] deliver presents
+- [x] have cookies and milk
 
+## Images
 
 ![Image](src)
