@@ -27,23 +27,23 @@ Visit my [profile](https://github.com/amys8) on [Github](https://github.com).
 
 ## Lists
 
-### Bulleted List
-- something
-- here
+### Bulleted List of my Favorite Cartoons
+- Avatar the last Airbender
+- Teen Titans
 
-### Numbered List
-1. my
-2. top
-3. three
+### Numbered List of my Favorite Drinks
+1. Dr. Pepper
+2. boba milk tea
+3. sparkling water
 
 ### Nested List
-1. ho
-   - ho
-     - ho
+1. HO
+   - HO
+     - HO :U+1F385:
      
 ### Task List
 - [x] one
-- [x] two
+- [ ] two
 - [x] three
 
 
