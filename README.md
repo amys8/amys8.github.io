@@ -48,4 +48,4 @@ Visit my [profile](https://github.com/amys8) on [Github](https://github.com).
 
 ## Images
 
-![Image](https://images-ext-1.discordapp.net/external/h_xbZI22dSVfZTNERkmz-LgTyiZXItnOQnraBah0-pc/https/imgur.com/NYIUAnB.png)
+![Image of Venti](https://images-ext-1.discordapp.net/external/h_xbZI22dSVfZTNERkmz-LgTyiZXItnOQnraBah0-pc/https/imgur.com/NYIUAnB.png)
