@@ -39,7 +39,7 @@ Visit my [profile](https://github.com/amys8) on [Github](https://github.com).
 ### Nested List
 1. HO
    - HO
-     - HO :+1F385:
+     - HO :+1:
      
 ### Task List
 - [x] one
