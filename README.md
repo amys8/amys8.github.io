@@ -46,6 +46,7 @@ Visit my [profile](https://github.com/amys8) on [Github](https://github.com).
 - [ ] deliver presents
 - [x] have milk and cookies
 
-## Images
+## Pictures
 
-![Image of Venti](https://images-ext-1.discordapp.net/external/h_xbZI22dSVfZTNERkmz-LgTyiZXItnOQnraBah0-pc/https/imgur.com/NYIUAnB.png)
+This is a picture of Venti from Genshin Impact.
+[Image](https://images-ext-1.discordapp.net/external/h_xbZI22dSVfZTNERkmz-LgTyiZXItnOQnraBah0-pc/https/imgur.com/NYIUAnB.png)
