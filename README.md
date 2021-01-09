@@ -25,8 +25,6 @@ git commit
 
 Visit my [profile](https://github.com/amys8) on [Github](https://github.com).
 
-Check out my [Pictures](./README.md#Pictures) section.
-
 ## Lists
 
 ### Bulleted List of my Favorite Cartoons
@@ -53,3 +51,5 @@ Check out my [Pictures](./README.md#Pictures) section.
 This is a picture.
 
 ![Image](https://media.discordapp.net/attachments/773016305325834322/796554608830054400/IMG_9144.JPG?width=885&height=664)
+
+Go back to the [top](./README.md#Amy'sUserPage). 
