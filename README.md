@@ -54,4 +54,4 @@ This is a picture.
 
 ![Image](https://media.discordapp.net/attachments/773016305325834322/796554608830054400/IMG_9144.JPG?width=885&height=664)
 
-Go back to the [top](https://github.com/amys8/amys8.github.io/blob/main/README.md#amys-user-page). 
+Go back to the [top](#amys-user-page). 
