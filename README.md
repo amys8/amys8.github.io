@@ -52,4 +52,4 @@ This is a picture.
 
 ![Image](https://media.discordapp.net/attachments/773016305325834322/796554608830054400/IMG_9144.JPG?width=885&height=664)
 
-Go back to the [top](./README.md#Amy'sUserPage). 
+Go back to the [top](./README.md#Amy's_User_Page). 
