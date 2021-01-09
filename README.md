@@ -25,6 +25,8 @@ git commit
 
 Visit my [profile](https://github.com/amys8) on [Github](https://github.com).
 
+Check out my [Pictures](./README.md##Pictures) section.
+
 ## Lists
 
 ### Bulleted List of my Favorite Cartoons
@@ -42,9 +44,9 @@ Visit my [profile](https://github.com/amys8) on [Github](https://github.com).
      - HO :santa:
      
 ### Task List
-- [x] slide down chimney
-- [ ] deliver presents
-- [x] have milk and cookies
+- [x] lecture
+- [ ] reading quiz
+- [x] assignment
 
 ## Pictures
 
