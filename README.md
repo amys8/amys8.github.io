@@ -25,6 +25,8 @@ git commit
 
 Visit my [profile](https://github.com/amys8) on [Github](https://github.com).
 
+### Relative Link
+
 This is a link to the [Relative file](./RELATIVE.md).
 
 ## Lists
@@ -53,5 +55,7 @@ This is a link to the [Relative file](./RELATIVE.md).
 This is a picture.
 
 ![Image](https://media.discordapp.net/attachments/773016305325834322/796554608830054400/IMG_9144.JPG?width=885&height=664)
+
+## Section Link
 
 Go back to the [top](#amys-user-page). 
