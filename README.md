@@ -25,7 +25,7 @@ git commit
 
 Visit my [profile](https://github.com/amys8) on [Github](https://github.com).
 
-Check out my [Pictures](./README.md##Pictures) section.
+Check out my [Pictures](./README.md#Pictures) section.
 
 ## Lists
 
