@@ -25,6 +25,8 @@ git commit
 
 Visit my [profile](https://github.com/amys8) on [Github](https://github.com).
 
+This is a link to the [Relative file](./RELATIVE.md).
+
 ## Lists
 
 ### Bulleted List of my Favorite Cartoons
